@@ -1,0 +1,1 @@
+{\n  "name": "portfolio",\n  "version": "1.0.0",\n  "description": "Prince Yadav Portfolio",\n  "scripts": {\n    "start": "npx serve -l 3000 ."\n  }\n}
